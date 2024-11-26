@@ -13,4 +13,4 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DanSM12034&theme=blue_navy&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanSM12034&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanSM12034&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
