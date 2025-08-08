@@ -12,11 +12,11 @@
 <a href="https://github.com/DanSM03" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Serna0312" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://x.com/Serna0312" target="_blank">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/dansernm/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/daniel.sm1203" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
